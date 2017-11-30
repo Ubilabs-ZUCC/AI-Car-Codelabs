@@ -13,7 +13,7 @@
 
 const char* ssid = "*******";//路由器ssid
 const char* password = "*******";//路由器密码
-const char* mqtt_server = "********";//服务器的地址
+const char* mqtt_server = "********";//服务器的地址 手机热点网关为192.168.43.1
 
 
 //全局变量区域上界
